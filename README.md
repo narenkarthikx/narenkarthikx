@@ -1,28 +1,30 @@
-# 💫 About Me:
-🛠️ **I'm currently working on:**  
-Building AI-powered real-time applications, data-driven systems and backend services that solve practical problems.
+## 💫 About Me
 
-👯 **I'm looking to collaborate on:**  
-Data engineering, backend projects and AI tools that make life simpler for users.
+🛠️ **Currently Working On**  
+AI-powered real-time applications, data-driven systems and backend services that solve practical problems.
 
-🤝 **I'm looking for help with:**  
-Scaling backend systems, optimizing data pipelines and deploying full-stack apps on cloud platforms.
+🤝 **Collaboration & Support**  
+Open to backend, data engineering and AI projects - especially around scaling systems and optimizing data pipelines.
 
-🌱 **I'm currently Exploring:**  
-Data engineering and AI-ML.
+🌱 **Currently Exploring**  
+Data Engineering • AI/ML • Cloud • Real-time Architectures
 
-💬 **Ask me about:**  
-Backend logic, data workflows, AI integrations, building practical apps and structuring real-time systems.
+💬 **Ask Me About**  
+Backend logic, data workflows, AI integrations, real-time systems and building practical, production-ready applications.
 
-⚡ **Fun fact:**  
-I believe in data-driven decisions and enjoy building the pipelines that make them possible.
+⚡ **Fun Fact**  
+I believe in data-driven decisions and enjoy building the pipelines that power them.
+
+🚀 **Motto**  
+**"Ship it. Perfect is a myth, progress is real."**
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narenkarthikx) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@narenkarthikx) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narenkarthik2004mdu@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 | Category | Technologies |
 |----------|-------------|
@@ -34,11 +36,3 @@ I believe in data-driven decisions and enjoy building the pipelines that make th
 | **📊 Data Engineering & Analytics** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | **🤖 AI/ML & Data Science** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
 | **🔧 Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=narenkarthikx&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=narenkarthikx&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=narenkarthikx&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Dev Quote
-**"Ship it. Perfect is a myth, progress is real."**
